@@ -1,0 +1,74 @@
+URL	http://www.blogwithoutalibrary.net/295
+MENTION	Amusing Ourselves to Death	20499	http://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death
+MENTION	Orwellian	20642	http://en.wikipedia.org/wiki/Orwellian
+MENTION	Durkheim	23961	http://en.wikipedia.org/wiki/Durkheim
+MENTION	Fred Turner	24512	http://en.wikipedia.org/wiki/Fred_Turner_(academic)
+MENTION	truthiness	27902	http://en.wikipedia.org/wiki/Truthiness
+MENTION	Colbert	28019	http://en.wikipedia.org/wiki/Stephen_colbert
+MENTION	truth	28138	http://en.wikipedia.org/wiki/Truth
+TOKEN	hang	23360
+TOKEN	sheer	19463
+TOKEN	funny	27943
+TOKEN	attended	26523
+TOKEN	tale	29926
+TOKEN	expected	19092
+TOKEN	minute	17567
+TOKEN	dominant	32201
+TOKEN	easier	22324
+TOKEN	smartest	26621
+
+
+URL	http://www.blogworld.com/2011/12/02/five-ways-to-troubleshoot-a-social-media-marketing-%E2%80%9Cdud%E2%80%9D/
+MENTION	community manager	43267	http://en.wikipedia.org/wiki/Online_community_manager
+TOKEN	done	46500
+TOKEN	fat	43145
+TOKEN	courteous	42273
+TOKEN	marketers	42092
+TOKEN	passionate	43784
+TOKEN	self	45505
+TOKEN	us	48041
+TOKEN	include	47860
+TOKEN	plain	47018
+TOKEN	perform	42006
+
+
+URL	http://www.blogwrath.com/tag/bulgaria/
+MENTION	Komar and Melamid's	21927	http://en.wikipedia.org/wiki/Komar_and_Melamid
+TOKEN	changing	29660
+TOKEN	wrote	21684
+TOKEN	complaints	34255
+TOKEN	poorest	28217
+TOKEN	type	29764
+TOKEN	torture	23932
+TOKEN	Western	22621
+TOKEN	bright	21456
+TOKEN	communism's	22089
+TOKEN	feeble	23616
+
+
+URL	http://www.blogymate.com/Exclusive/CBS-Interactive-cnet-Music
+MENTION	mandala	73705	http://en.wikipedia.org/wiki/Mandala
+TOKEN	do	97417
+TOKEN	shiny	101688
+TOKEN	know	97395
+TOKEN	within	73794
+TOKEN	redesign	92141
+TOKEN	tell	97216
+TOKEN	edges	92282
+TOKEN	vision	97371
+TOKEN	Circuit	69322
+TOKEN	software	96796
+
+
+URL	http://www.blogymate.com/post.aspx?blogid=1307&t=Bangladesh-Digitizing-Land-Records-to-Combat-Corruption
+MENTION	public-private partnership (PPP)	40468	http://en.wikipedia.org/wiki/Public%E2%80%93private_partnership
+TOKEN	carry	45070
+TOKEN	enthusiast	44317
+TOKEN	date	41452
+TOKEN	illegally	37170
+TOKEN	conglomerate	39223
+TOKEN	Passionate	44209
+TOKEN	taxes	42983
+TOKEN	touts	36900
+TOKEN	community	45125
+TOKEN	having	43085
